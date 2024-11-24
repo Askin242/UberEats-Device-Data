@@ -18,4 +18,4 @@ xor_key = [89, 231, 225, 55]
 data = {'sid': 'bbc661585c424072'}
 
 encrypted_data = encrypt_data(data, xor_key)
-print("Données chiffrées :", encrypted_data)
+print("Result:", encrypted_data)
