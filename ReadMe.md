@@ -41,7 +41,7 @@ I decide to go into the client-main file as it have a SET_DEVICE_DATA event.
 
 Let's add a breakpoint and go backward to understand how the `t.payload` field is made.
 
-After some investigation, i found that our value disapear when going from the anonymous function to the cfp one.
+After some investigation, i found that our value disappear when going from the anonymous function to the cfp one.
 
 ![function stack image](images/brave_OXtvMogNWm.png)
 
