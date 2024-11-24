@@ -229,7 +229,7 @@ function Ab() {
 
 But from this code the value is hashed using sha1, so let's just hash random value.
 
-When the builder is finishe, let's run it, and boom it work :)
+The builder is finished, let's run it, and boom it work :)
 ![builder result](images/Code_qSVCSELlEC.png)
 
 That's it, we finished reversing the `deviceData` field from UberEats API, I hope it helped you.
