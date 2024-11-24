@@ -6,8 +6,6 @@
     <br />
     <a href="https://t.me/askineiko">💬 Telegram</a>
     ·
-    <a href="https://github.com/Askin242/ubereats-device-data#-changelog">📜 ChangeLog</a>
-    ·
     <a href="https://github.com/Askin242/ubereats-device-data/issues/new">⚠️ Report Bug</a>
     ·
     <a href="https://github.com/Askin242/ubereats-device-data/issues/new">💡 Request Feature</a>
