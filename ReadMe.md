@@ -62,7 +62,7 @@ function X() {
 }
 ```
 
-The first thing that I see in this function is the `return Ka.encode(Ia(Z.stringify(v)))`, mainly `Z.stringify(v)` wich is verry likely to return a json of the encrypted payload.
+The first thing that I see in this function is the `return Ka.encode(Ia(Z.stringify(v)))`, mainly `Z.stringify(v)` wich is verry likely to return a json of the decrypted payload.
 
 ![fingerprint image](images/brave_xd1dCP88yz.png)
 
