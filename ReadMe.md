@@ -68,7 +68,7 @@ The first thing that I see in this function is the `return Ka.encode(Ia(Z.string
 
 Yep, we got our fully decrypted payload, so let's take a look at how it's encrypted.
 
-Ka.encode seems to be a base64 encode implementation, that confirm my first thought of the payload to be base64 encoded.
+`Ka.encode` seems to be a base64 encode implementation, that confirm my first thought of the payload to be base64 encoded.
 ![Ka object js](images/brave_KfZzqAOjwL.png)
 ```javascript
 var Ka = {
@@ -142,7 +142,7 @@ print("Result: ", decrypted_data)
 And by just running it we get our full payload!
 ![alt text](images/Code_95xhk5SC1k.png)
 
-Simple encryption code (similar as decryption one), `decrypt.py`:
+Simple encryption code (similar as decryption one), `encrypt.py`:
 ```python
 import base64
 import json
