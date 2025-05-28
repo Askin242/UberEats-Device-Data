@@ -23,6 +23,7 @@
 
 - Encryption/Decryption
 - Fingerprint generation
-- Full explaination
+- Full explaination (in `blog.MD`)
 
+Working atleast on account registeration.
 Have a nice day :)
